@@ -2,9 +2,9 @@
 
 Good to see you hear 😄
 
-You can checkout my [LinkedIn](https://www.linkedin.com/in/jafarkarimi/) profile for more info about my professional side
+You can checkout my [LinkedIn](https://www.linkedin.com/in/jafarkarimi/) profile for more info about my professional side 🔭
 
-Have nice day!
+Have nice day!🌱
 
 <!--
 **jk8869/jk8869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
