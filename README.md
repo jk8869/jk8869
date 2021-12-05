@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Good to see you hear 😄
+Good to see you here 😄
 
 You can checkout my [LinkedIn](https://www.linkedin.com/in/jafarkarimi/) profile for more info about my professional side 🔭
 
